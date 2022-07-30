@@ -1,0 +1,22 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    int x = 160;
+	    
+	    if (x >= 160){
+	        System.out.println("you are in the sufficient length enter");
+	        
+	    }
+	    else if (x <= 159){
+	        System.out.println("you are not in the sufficient length to enter");
+	        
+	    } 
+	}
+}
+
+
+اذا كنت بالكول المناسب
+you are in the sufficient length enter
+
+اذا لم تكن بالطول المناسب
+you are not in the sufficient length to enter
